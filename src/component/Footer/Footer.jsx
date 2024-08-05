@@ -5,6 +5,7 @@ import { FaWhatsapp } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
+
 const Footer = () => {
   return (
     <div className='mt-10'>
@@ -59,6 +60,7 @@ const Footer = () => {
   
            
         </section>
+       
         <h2 className='text-center mt-3 font-mono text-white p-3'>Developed by Ajay ✌️</h2>
       </footer>
     </div>
